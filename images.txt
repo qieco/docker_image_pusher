@@ -1,2 +1,2 @@
-ghcr.io/all-hands-ai/openhands:0.9
+docker pull python:3.11.9-slim
 
