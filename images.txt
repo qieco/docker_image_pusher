@@ -1,2 +1,2 @@
-docker pull python:3.11.9-slim
+python:3.11.9-slim
 
