@@ -1,1 +1,1 @@
-cr2.fit2cloud.com/metersphere/metersphere-ce-allinone
+plexinc/pms-docker
